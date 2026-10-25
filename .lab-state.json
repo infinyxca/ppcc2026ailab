@@ -36,5 +36,8 @@
   "connectorDeployed": true,
   "productDataSourceScaffolded": true,
   "connectorDataSourceScaffolded": true,
-  "barcodeScanUiScaffolded": true
+  "barcodeScanUiScaffolded": true,
+  "configDataDirectory": "/workspaces/ppcc2026ailab/src/Packages.Main/Data",
+  "configDataSchemaPath": "/workspaces/ppcc2026ailab/src/Packages.Main/Data/data_schema.xml",
+  "configDataFilePath": "/workspaces/ppcc2026ailab/src/Packages.Main/Data/data.xml"
 }
